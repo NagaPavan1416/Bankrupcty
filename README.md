@@ -1,1 +1,1 @@
-# Bankrupcty
+# Bankruptcy
